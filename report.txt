@@ -1,0 +1,67 @@
+as referred form multiple blogs, there r quite a few no of steps to build a web carwler
+
+the very first thing being
+ 1)a seed url
+
+ 2)get all the html or some sleecetd elements form that html
+
+ 3) collect all the hyper links form that and reccursevely do the same thing
+
+ 4) record the texts in an organised format
+
+
+
+ the thing that i can add here is
+
+  1)i can make this multithreaded using java
+
+  2)i can implement a proper database storage
+
+  3) i can cretae a proper spring boot project
+
+
+
+
+its march 13  0020
+
+i found it difficult exactly why tf was the hashsset not
+pupulating, i think it was but i was not able to get t
+he right instnsce of the hastst the instaces which i wanted
+
+so i moved to a more basic aprocuh
+
+till now , i can fetch  html using elements store them in sets
+
+tommowr i will be implemeting the recc logic
+
+
+
+its march 15 0040
+
+ i dont know wher ethe 14 march logs r i m prett sure i wrote those but fuck
+
+ i now have the hold over the data form links in form of a list f list the only reistanse now is the database, like i keep n using docker for databas and i hate to downlaod it cuz they r bulky , but  guess tomwworw i have to downlod it any wy or find a onine postgres instance
+
+    umm guess i will go eith posgres orm tmoowrow
+
+postgresql://neondb_owner:npg_i7l5oLvFOMzC@ep-calm-smoke-anu7qesv-pooler.c-6.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+
+
+
+
+
+
+
+
+
+
+
+this is day 2 of building  a web scrapper
+and today is 14 macrh 01:14(btw yesteday was that acses girsl birthday)
+
+also today i implemented the reccurise approch of searching across the links, its does takes time but works;
+ also i cleaned the code a bit and created mainly 2 things 1) the reccusize links look up and the data extraction layer form links, 
+ 
+ 
+ tommorow i will be fosuing on the data base thing and implement my spring boot skills
+ 
