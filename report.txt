@@ -57,7 +57,7 @@ postgresql://neondb_owner:npg_i7l5oLvFOMzC@ep-calm-smoke-anu7qesv-pooler.c-6.us-
 
 
 this is day 2 of building  a web scrapper
-and today is 14 macrh 01:14(btw yesteday was that acses girsl birthday)
+and today is 14 macrh 01:14(btw yesteday was  AGBDY)
 
 also today i implemented the reccurise approch of searching across the links, its does takes time but works;
  also i cleaned the code a bit and created mainly 2 things 1) the reccusize links look up and the data extraction layer form links, 
