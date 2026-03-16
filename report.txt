@@ -44,7 +44,6 @@ its march 15 0040
 
     umm guess i will go eith posgres orm tmoowrow
 
-postgresql://neondb_owner:npg_i7l5oLvFOMzC@ep-calm-smoke-anu7qesv-pooler.c-6.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
 
 
 
